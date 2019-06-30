@@ -5,3 +5,5 @@ function fn(x, y) {
 }
 
 fn(10, 20)
+
+var str = 'demo修改'
